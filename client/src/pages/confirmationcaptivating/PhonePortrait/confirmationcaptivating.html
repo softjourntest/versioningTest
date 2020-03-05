@@ -1,0 +1,22 @@
+<ion-content data-comp-id="content.1">
+    <div class="container-primary" data-comp-id="div.1" style="padding: 25% 10%;">
+        <ion-row data-comp-id="row.1">
+            <ion-col data-comp-id="column.1" style="text-align: center;">
+                <ion-icon class="ion-md-checkmark" color="light" data-comp-id="icon.1"
+                    style="font-size: 60px;"></ion-icon>
+                <div [innerHTML]="data.confirmationtext" data-comp-id="text.1" ion-text=""
+                    style="margin: 20px;">Transaction Completed</div>
+            </ion-col>
+        </ion-row>
+    </div>
+    <div data-comp-id="div.2" style="padding: 15% 20%;">
+        <ion-row data-comp-id="row.2">
+            <ion-col data-comp-id="column.2" style="text-align: center;">
+                <div [innerHTML]="data.confirmationdescription" data-comp-id="text.2"
+                    ion-text="" style="margin: 20px;">Description text goes here. Lorem ipsum dolor sit amet, consectetur.</div>
+                <button (click)="action('done')" data-comp-id="button.1" ion-button=""
+                    style="margin: 50px 0px; padding: 20px;"><span>Done</span></button>
+            </ion-col>
+        </ion-row>
+    </div>
+</ion-content>
