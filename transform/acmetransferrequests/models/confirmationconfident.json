@@ -21,6 +21,9 @@
     },
     "done": {
       "type": "action"
+    },
+    "bbbb": {
+      "type": "string"
     }
   },
   "id": "confirmationconfident",
