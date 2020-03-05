@@ -1,0 +1,19 @@
+{
+  "name": "versioningtest",
+  "description": "",
+  "defaultLayout": "PhonePortrait",
+  "previewToken": "cb0f1baa",
+  "clientVersion": "6.1.0-dev",
+  "theme": "Essential",
+  "creatorId": "test",
+  "isBuiltInTemplate": false,
+  "screensCount": 4,
+  "creatorName": "PowWow Admin",
+  "explorations": [
+    "acmetransferrequests"
+  ],
+  "disableSideMenu": false,
+  "iconUrl": "/previews/login.png",
+  "hidden": false,
+  "created": 1583407105425
+}
