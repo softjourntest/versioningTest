@@ -28,12 +28,6 @@
       "sourceScreenId": "settings",
       "sourceAppId": "AcmeTransferRequests",
       "preventAutoDismiss": true
-    },
-    {
-      "id": "confirmationcaptivating",
-      "name": "Confirmation-captivating",
-      "sourceScreenId": "Confirmation_ConfirmationCaptivating",
-      "sourceAppId": "StrawberryTemplates"
     }
   ],
   "startScreen": "login",

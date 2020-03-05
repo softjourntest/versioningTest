@@ -4,15 +4,13 @@ import { login_PhonePortrait } from '../pages/login/PhonePortrait/login';
 import { transferform_PhonePortrait } from '../pages/transferform/PhonePortrait/transferform';
 import { confirmation_PhonePortrait } from '../pages/confirmation/PhonePortrait/confirmation';
 import { settings_PhonePortrait } from '../pages/settings/PhonePortrait/settings';
-import { confirmationcaptivating_PhonePortrait } from '../pages/confirmationcaptivating/PhonePortrait/confirmationcaptivating';
 export class Screens {
   static declarations = [
     MenuComponent,
     login_PhonePortrait,
     transferform_PhonePortrait,
     confirmation_PhonePortrait,
-    settings_PhonePortrait,
-    confirmationcaptivating_PhonePortrait
+    settings_PhonePortrait
   ];
   static mapping = {
     'login': {
@@ -26,9 +24,6 @@ export class Screens {
     },
     'settings': {
       PhonePortrait: settings_PhonePortrait
-    },
-    'confirmationcaptivating': {
-      PhonePortrait: confirmationcaptivating_PhonePortrait
     }
   }
 }

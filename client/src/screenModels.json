@@ -144,27 +144,5 @@
     "comment": "Blank",
     "properties": {},
     "id": "settings"
-  },
-  "confirmationcaptivating": {
-    "type": "object",
-    "comment": "Blank",
-    "properties": {
-      "confirmationtext": {
-        "type": "string",
-        "update": {
-          "type": "none"
-        }
-      },
-      "confirmationdescription": {
-        "type": "string",
-        "update": {
-          "type": "none"
-        }
-      },
-      "done": {
-        "type": "action"
-      }
-    },
-    "id": "confirmationcaptivating"
   }
 }
