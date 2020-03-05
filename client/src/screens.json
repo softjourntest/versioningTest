@@ -28,6 +28,12 @@
       "sourceScreenId": "settings",
       "sourceAppId": "AcmeTransferRequests",
       "preventAutoDismiss": true
+    },
+    {
+      "id": "homeiconcolorblocks",
+      "name": "HomeIconColorBlocks",
+      "sourceScreenId": "Home_homeiconcolorblocks",
+      "sourceAppId": "StrawberryTemplates"
     }
   ],
   "startScreen": "login",
