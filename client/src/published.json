@@ -1,0 +1,13 @@
+{
+  "smartuxApp": "1.0",
+  "version": "1.0.0",
+  "date": 1583407458141,
+  "creator": "PowWow Admin",
+  "clientVersion": "6.1.0-dev",
+  "id": "versioningtest_2",
+  "name": "versioningtest",
+  "serverVersion": "6.1.0-dev",
+  "serverModulesIncluded": true,
+  "buildType": "JIT",
+  "cbUrl": "/cb"
+}
