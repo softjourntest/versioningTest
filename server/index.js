@@ -6,4 +6,5 @@ require('./transform/acmetransferrequests/transferform');
 require('./transform/acmetransferrequests/confirmation');
 require('./transform/acmetransferrequests/confirmationconfident');
 require('./client/confirmation');
+require('./client/login');
 session.start();
